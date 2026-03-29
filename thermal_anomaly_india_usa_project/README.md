@@ -389,12 +389,12 @@ Data Source: Select BigQuery. Find table  in the project/dataset. Click CONNECT.
 Create Report. Add to the report.
 
 Create a dashboard by adding charts as follows:
-https://github.com/rinimondalgit/project-1-de-zoomcamp-2026-thermal-anomaly-india-usa/blob/main/thermal_anomaly_india_usa_project/images/executive.png
-https://github.com/rinimondalgit/project-1-de-zoomcamp-2026-thermal-anomaly-india-usa/blob/main/thermal_anomaly_india_usa_project/images/India.png
-https://github.com/rinimondalgit/project-1-de-zoomcamp-2026-thermal-anomaly-india-usa/blob/main/thermal_anomaly_india_usa_project/images/usa.png
-https://github.com/rinimondalgit/project-1-de-zoomcamp-2026-thermal-anomaly-india-usa/blob/main/thermal_anomaly_india_usa_project/images/comparison.png
-https://github.com/rinimondalgit/project-1-de-zoomcamp-2026-thermal-anomaly-india-usa/blob/main/thermal_anomaly_india_usa_project/images/spatial.png
-https://github.com/rinimondalgit/project-1-de-zoomcamp-2026-thermal-anomaly-india-usa/blob/main/thermal_anomaly_india_usa_project/images/insight.png
+![Architecture](https://github.com/rinimondalgit/project-1-de-zoomcamp-2026-thermal-anomaly-india-usa/blob/main/thermal_anomaly_india_usa_project/images/executive.png)
+![Architecture](https://github.com/rinimondalgit/project-1-de-zoomcamp-2026-thermal-anomaly-india-usa/blob/main/thermal_anomaly_india_usa_project/images/India.png)
+![Architecture](https://github.com/rinimondalgit/project-1-de-zoomcamp-2026-thermal-anomaly-india-usa/blob/main/thermal_anomaly_india_usa_project/images/usa.png)
+![Architecture](https://github.com/rinimondalgit/project-1-de-zoomcamp-2026-thermal-anomaly-india-usa/blob/main/thermal_anomaly_india_usa_project/images/comparison.png)
+![Architecture](https://github.com/rinimondalgit/project-1-de-zoomcamp-2026-thermal-anomaly-india-usa/blob/main/thermal_anomaly_india_usa_project/images/spatial.png)
+![Architecture](https://github.com/rinimondalgit/project-1-de-zoomcamp-2026-thermal-anomaly-india-usa/blob/main/thermal_anomaly_india_usa_project/images/insight.png)
 
 
 
