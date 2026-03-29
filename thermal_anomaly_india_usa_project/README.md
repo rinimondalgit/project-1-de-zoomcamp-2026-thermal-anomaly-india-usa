@@ -19,7 +19,7 @@ This project builds an end-to-end data engineering pipeline to process and analy
 
 
 The pipeline ingests raw CSV data, processes it using PySpark, and loads curated datasets into BigQuery for analytics.
-https://github.com/rinimondalgit/project-1-de-zoomcamp-2026-thermal-anomaly-india-usa/blob/main/thermal_anomaly_india_usa_project/images/image.png
+![Architecture Diagram](./image/image.png)
 🎯 Objective
 
 
