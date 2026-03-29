@@ -19,7 +19,7 @@ This project builds an end-to-end data engineering pipeline to process and analy
 
 
 The pipeline ingests raw CSV data, processes it using PySpark, and loads curated datasets into BigQuery for analytics.
-![Architecture Diagram](./image/image.png)
+![Architecture](image/image.png)
 🎯 Objective
 
 
