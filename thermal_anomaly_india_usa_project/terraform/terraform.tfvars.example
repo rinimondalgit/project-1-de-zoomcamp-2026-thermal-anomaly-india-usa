@@ -1,0 +1,5 @@
+project_id  = "your-gcp-project-id"
+region      = "us-central1"
+location    = "US"
+bucket_name = "your-unique-bucket-name"
+dataset_name = "thermal_anomaly_dw"

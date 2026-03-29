@@ -1,0 +1,6 @@
+{
+  "countries": ["India", "United States"],
+  "years": [2021, 2022, 2023, 2024],
+  "raw_prefix": "thermal_anomaly/raw",
+  "curated_prefix": "thermal_anomaly/curated"
+}

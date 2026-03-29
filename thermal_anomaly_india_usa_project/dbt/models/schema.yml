@@ -1,0 +1,24 @@
+version: 2
+
+models:
+  - name: stg_thermal_anomalies
+    columns:
+      - name: country_slug
+        tests: [not_null]
+      - name: observation_date
+        tests: [not_null]
+
+  - name: dim_country
+    columns:
+      - name: country_slug
+        tests: [not_null, unique]
+
+  - name: fct_daily_country_activity
+    columns:
+      - name: anomaly_count
+        tests: [not_null]
+
+  - name: fct_monthly_country_activity
+    columns:
+      - name: anomaly_count
+        tests: [not_null]
