@@ -19,7 +19,7 @@ This project builds an end-to-end data engineering pipeline to process and analy
 
 
 The pipeline ingests raw CSV data, processes it using PySpark, and loads curated datasets into BigQuery for analytics.
-
+https://github.com/rinimondalgit/project-1-de-zoomcamp-2026-thermal-anomaly-india-usa/blob/main/thermal_anomaly_india_usa_project/images/image.png
 🎯 Objective
 
 
@@ -389,12 +389,12 @@ Data Source: Select BigQuery. Find table  in the project/dataset. Click CONNECT.
 Create Report. Add to the report.
 
 Create a dashboard by adding charts as follows:
-
-
-
-
-
-
+https://github.com/rinimondalgit/project-1-de-zoomcamp-2026-thermal-anomaly-india-usa/blob/main/thermal_anomaly_india_usa_project/images/executive.png
+https://github.com/rinimondalgit/project-1-de-zoomcamp-2026-thermal-anomaly-india-usa/blob/main/thermal_anomaly_india_usa_project/images/India.png
+https://github.com/rinimondalgit/project-1-de-zoomcamp-2026-thermal-anomaly-india-usa/blob/main/thermal_anomaly_india_usa_project/images/usa.png
+https://github.com/rinimondalgit/project-1-de-zoomcamp-2026-thermal-anomaly-india-usa/blob/main/thermal_anomaly_india_usa_project/images/comparison.png
+https://github.com/rinimondalgit/project-1-de-zoomcamp-2026-thermal-anomaly-india-usa/blob/main/thermal_anomaly_india_usa_project/images/spatial.png
+https://github.com/rinimondalgit/project-1-de-zoomcamp-2026-thermal-anomaly-india-usa/blob/main/thermal_anomaly_india_usa_project/images/insight.png
 
 
 
